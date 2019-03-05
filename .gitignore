@@ -1,0 +1,8 @@
+build/**
+bin/**
+*.pcm
+*.d
+*.o
+*.swp
+*.swo
+*.orig
